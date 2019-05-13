@@ -15,7 +15,7 @@ The first argument is the seed for random number generator and is required.
 After save the changes in ``header.h``, recompile and run simulations.
 
 - ``fxs_pbc.c`` constains most sub-routines specific to environment-depedent games, including randomly drawing players in a game,
-calculate environment-dependent payoffs, calculate change in environment using the Euler method, 2D diffusion, etc.
+calculate environment-dependent payoffs, calculate change in environment using the Euler method, 2D diffusion, etc. "pbc" stands for [p]eriodic [b]oundary [c]onditions.
 
 - ``innout.c``, ``rand.c``, ``initialization.c``, ``alloc.c`` are general helper functions handling random number generator,
 file I/O, and array allocation.
