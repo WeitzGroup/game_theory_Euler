@@ -1,4 +1,6 @@
 # game_theory_Euler
+This is the code repository for the paper
+Lin, Y.-H., & Weitz, J. S. (2019). [Spatial Interactions and Oscillatory Tragedies of the Commons](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.148102). *Physical Review Letters*, 122(14), 148102.
 ## main_code
 C code for running spatial/non-spatial simulations.
 
@@ -30,4 +32,4 @@ MATLAB scripts to collect simulation data and store as ``.mat`` file in batch fo
 MATLAB scripts to calculate pair correlation of spatial profiles.
 
 ## script_for_figs
-MATLAB scripts for plotting figures in the paper [Spatial Interactions and Oscillatory Tragedies of the Commons](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.148102).
+MATLAB scripts for plotting figures in the paper.
