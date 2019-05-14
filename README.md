@@ -33,3 +33,7 @@ MATLAB scripts to calculate pair correlation of spatial profiles.
 
 ## script_for_figs
 MATLAB scripts for plotting figures in the paper. Part of the data sets required for plotting figures exceed the file size limit of GitHub and are not included in this repository. Please make a request to jsweitz@gatech.edu for large data files.
+
+## DOI
+This code is archived at Zenodo
+[![DOI](https://zenodo.org/badge/185841331.svg)](https://zenodo.org/badge/latestdoi/185841331)
