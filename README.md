@@ -32,4 +32,4 @@ MATLAB scripts to collect simulation data and store as ``.mat`` file in batch fo
 MATLAB scripts to calculate pair correlation of spatial profiles.
 
 ## script_for_figs
-MATLAB scripts for plotting figures in the paper.
+MATLAB scripts for plotting figures in the paper. Part of the data sets required for plotting figures exceed the file size limit of GitHub and are not included in this repository. Please make a request to jsweitz@gatech.edu for large data files.
